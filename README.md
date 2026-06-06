@@ -1,1 +1,1 @@
-i can write c/c++, html and basic python, php, css, asm, java
+i can write c/c++, html and basic python, php, css, asm, java, pl/sql, haskell
